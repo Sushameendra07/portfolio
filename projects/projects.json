@@ -1,32 +1,92 @@
 [
   {
-    "name": "Healthcare Pharmacy & E-Commerce Platform",
-    "desc": "Online prescription uploads, nearby pharmacy-based delivery using location, and Amazon/Flipkart-style product browsing. Tech: HTML, CSS, JavaScript, Python, Django, SQL.",
+    "name": "Healthcare Pharmacy Platform",
+    "desc": "A pharmacy platform for prescriptions, nearby availability, and medicine delivery.",
     "image": "flipkartmern",
     "category": "web",
     "links": {
       "view": "#",
-      "code": "https://github.com/Sushameendra07"
+      "code": "#"
     }
   },
   {
-    "name": "AI Recruitment Platform",
-    "desc": "Applicant Tracking System (ATS), resume search algorithm, and emotion analysis for candidate evaluation. Tech: HTML, CSS, JavaScript, Python, Django, MongoDB, SQL.",
+    "name": "E-Commerce Website",
+    "desc": "An e-commerce website for browsing products, cart, and checkout flow.",
+    "image": "flipkartphp",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "AI Recruitment System",
+    "desc": "An AI recruitment system for screening candidates and managing applications.",
     "image": "cryptotracker",
     "category": "web",
     "links": {
       "view": "#",
-      "code": "https://github.com/Sushameendra07"
+      "code": "#"
     }
   },
   {
-    "name": "Academic Minor Project",
-    "desc": "Major contributor (90% involvement). Applied core CS concepts and teamwork. Tech: Python, SQL, HTML, CSS, JavaScript.",
+    "name": "Authentication & Authorization System",
+    "desc": "A secure auth system with login, roles, and protected routes.",
+    "image": "basicbank",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "CRUD Web Application",
+    "desc": "A CRUD web app to create, read, update, and delete records.",
+    "image": "issuetrack",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Admin Dashboard",
+    "desc": "An admin dashboard for monitoring metrics and managing data.",
+    "image": "saas",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Machine Learning Project",
+    "desc": "A machine learning project with data processing and model-driven results.",
+    "image": "reactprojects",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Internship Project",
+    "desc": "A project built during internship with real-world requirements and delivery.",
     "image": "portfolio1",
     "category": "web",
     "links": {
       "view": "#",
-      "code": "https://github.com/Sushameendra07"
+      "code": "#"
+    }
+  },
+  {
+    "name": "Hackathon Project",
+    "desc": "A hackathon project built under time constraints with a working prototype.",
+    "image": "bootstrapportfolio",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "#"
     }
   }
 ]
