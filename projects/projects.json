@@ -1,8 +1,8 @@
 [
   {
-    "name": "Healthcare Pharmacy Platform",
-    "desc": "A pharmacy platform for prescriptions, nearby availability, and medicine delivery.",
-    "image": "foodwebsite",
+    "name": "Hotel Management System",
+    "desc": "A hotel system for booking, room management, and customer handling.",
+    "image": "templeweb",
     "category": "web",
     "links": {
       "view": "#",
@@ -31,7 +31,7 @@
   },
   {
     "name": "Authentication & Authorization System",
-    "desc": "A secure auth system with login, roles, and protected routes.",
+    "desc": "An auth system with login, roles, and a health monitoring system module.",
     "image": "basicbank",
     "category": "web",
     "links": {
@@ -82,7 +82,7 @@
   {
     "name": "Hackathon Project",
     "desc": "A hackathon project built under time constraints with a working prototype.",
-    "image": "webuiclones",
+    "image": "kiaweb",
     "category": "web",
     "links": {
       "view": "#",
