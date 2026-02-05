@@ -1,15 +1,5 @@
 [
   {
-    "name": "Hotel Management System",
-    "desc": "A hotel system for booking, room management, and customer handling.",
-    "image": "templeweb",
-    "category": "web",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
     "name": "E-Commerce Website",
     "desc": "An e-commerce website for browsing products, cart, and checkout flow.",
     "image": "flipkartphp",
@@ -73,16 +63,6 @@
     "name": "Internship Project",
     "desc": "A project built during internship with real-world requirements and delivery.",
     "image": "portfolio1",
-    "category": "web",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Hackathon Project",
-    "desc": "A hackathon project built under time constraints with a working prototype.",
-    "image": "kiaweb",
     "category": "web",
     "links": {
       "view": "#",
