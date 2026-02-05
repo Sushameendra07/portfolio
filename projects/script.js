@@ -17,14 +17,14 @@ $(document).ready(function () {
     });
 });
 
-document.addEventListener('visibilitychange',
+document.addEventListener("visibilitychange",
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Projects | Portfolio Sushameendra Hampikar";
             $("#favicon").attr("href", "../assets/images/favicon.png");
         }
         else {
-            document.title = "Come Back To Portfolio";
+            document.title = "Thanks for the visit";
             $("#favicon").attr("href", "../assets/images/favhand.png");
         }
     });
