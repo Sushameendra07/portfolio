@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Healthcare Pharmacy & E-Commerce Platform",
+    "desc": "Online prescription uploads, nearby pharmacy-based delivery using location, and Amazon/Flipkart-style product browsing. Tech: HTML, CSS, JavaScript, Python, Django, SQL.",
+    "image": "flipkartmern",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Sushameendra07"
+    }
+  },
+  {
+    "name": "AI Recruitment Platform",
+    "desc": "Applicant Tracking System (ATS), resume search algorithm, and emotion analysis for candidate evaluation. Tech: HTML, CSS, JavaScript, Python, Django, MongoDB, SQL.",
+    "image": "cryptotracker",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Sushameendra07"
+    }
+  },
+  {
+    "name": "Academic Minor Project",
+    "desc": "Major contributor (90% involvement). Applied core CS concepts and teamwork. Tech: Python, SQL, HTML, CSS, JavaScript.",
+    "image": "portfolio1",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Sushameendra07"
+    }
+  }
+]
