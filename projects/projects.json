@@ -2,7 +2,7 @@
   {
     "name": "Healthcare Pharmacy Platform",
     "desc": "A pharmacy platform for prescriptions, nearby availability, and medicine delivery.",
-    "image": "flipkartmern",
+    "image": "foodwebsite",
     "category": "web",
     "links": {
       "view": "#",
@@ -22,7 +22,7 @@
   {
     "name": "AI Recruitment System",
     "desc": "An AI recruitment system for screening candidates and managing applications.",
-    "image": "cryptotracker",
+    "image": "resumegen",
     "category": "web",
     "links": {
       "view": "#",
@@ -62,7 +62,7 @@
   {
     "name": "Machine Learning Project",
     "desc": "A machine learning project with data processing and model-driven results.",
-    "image": "reactprojects",
+    "image": "cryptotracker",
     "category": "web",
     "links": {
       "view": "#",
@@ -82,7 +82,7 @@
   {
     "name": "Hackathon Project",
     "desc": "A hackathon project built under time constraints with a working prototype.",
-    "image": "bootstrapportfolio",
+    "image": "webuiclones",
     "category": "web",
     "links": {
       "view": "#",
