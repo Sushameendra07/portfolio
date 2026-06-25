@@ -34,5 +34,13 @@
     {
         "name": "Machine Learning",
         "icon": "https://img.icons8.com/color/48/000000/artificial-intelligence.png"
+    },
+    {
+        "name": "Android Development",
+        "icon": "https://img.icons8.com/color/48/000000/android-os.png"
+    },
+    {
+        "name": "DSA",
+        "icon": "https://img.icons8.com/color/48/000000/algorithm.png"
     }
 ]

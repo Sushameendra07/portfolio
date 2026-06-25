@@ -60,13 +60,13 @@
     }
   },
   {
-    "name": "Internship Project",
-    "desc": "A project built during internship with real-world requirements and delivery.",
-    "image": "portfolio1",
+    "name": "Namma Railu Buddy",
+    "desc": "A GenAI-powered Android application developed to help train passengers with real-time train information, station details, platform updates, destination alerts, and travel assistance.",
+    "image": "nammarailubuddy",
     "category": "web",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://github.com/Sushameendra07/Namma-Railu-Buddy",
+      "code": "https://github.com/Sushameendra07/Namma-Railu-Buddy"
     }
   }
 ]
